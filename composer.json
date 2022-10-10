@@ -1,0 +1,20 @@
+{
+    "name": "AshrafSaeed/math",
+    "description": "",
+    "authors": [
+        {
+            "name": "AshrafSaeed",
+            "email": "avanix.sol@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "illuminate/support": "9.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "AshrafSaeed\\Math": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
